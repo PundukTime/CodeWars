@@ -2,7 +2,7 @@ package codewars;
 
 public class isogram {
     public static void main(String[] args) {
-        String iso = "sdasdasdads";
+        String iso = "sdasdasdawewedfssgsgsgdsgdsggdsgdsgdsgsgsgsgdsgdsgdsgdsgsds";
 
         System.out.println(isogram(iso));
 
